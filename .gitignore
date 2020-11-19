@@ -1,1 +1,25 @@
+#### 25-JS/js-project
 25-JS/js-project/node_modules
+
+#### react-tutorial/begin-react
+# dependencies
+react-tutorial/begin-react/node_modules
+react-tutorial/begin-react/.pnp
+react-tutorial/begin-react.pnp.js
+
+# testing
+react-tutorial/begin-react/coverage
+
+# production
+react-tutorial/begin-react/build
+
+# misc
+react-tutorial/begin-react/.DS_Store
+react-tutorial/begin-react/.env.local
+react-tutorial/begin-react/.env.development.local
+react-tutorial/begin-react/.env.test.local
+react-tutorial/begin-react/.env.production.local
+
+react-tutorial/begin-react/npm-debug.log*
+react-tutorial/begin-react/yarn-debug.log*
+react-tutorial/begin-react/yarn-error.log*
