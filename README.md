@@ -9,5 +9,8 @@
 25. JavaScript(이웅재 강사)   
 - [프로젝트 코드 깃허브](https://github.com/xid-mark/fc-js-project)
 
-26. 벨로퍼트와 함께하는 모던 자바스크립트
+26-29. 벨로퍼트와 함께하는 모던 자바스크립트
 - [벨로퍼트와 함께하는 모던 자바스크립트 도큐먼트](https://learnjs.vlpt.us/)
+
+30-37. 벨로퍼트와 함께하는 모던 리액트
+- [벨로퍼트와 함께하는 모던 리액트 도큐먼트](https://react.vlpt.us/)
