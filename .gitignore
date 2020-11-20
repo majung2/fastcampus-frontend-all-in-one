@@ -1,25 +1,26 @@
-#### 25-JS/js-project
+# 25-js
 25-JS/js-project/node_modules
 
-#### react-tutorial/begin-react
+# react-tutorial
+
 # dependencies
-react-tutorial/begin-react/node_modules
-react-tutorial/begin-react/.pnp
-react-tutorial/begin-react.pnp.js
+30-React/begin-react/node_modules
+30-React/begin-react/.pnp
+30-React/begin-react.pnp.js
 
 # testing
-react-tutorial/begin-react/coverage
+30-React/begin-react/coverage
 
 # production
-react-tutorial/begin-react/build
+30-React/begin-react/build
 
 # misc
-react-tutorial/begin-react/.DS_Store
-react-tutorial/begin-react/.env.local
-react-tutorial/begin-react/.env.development.local
-react-tutorial/begin-react/.env.test.local
-react-tutorial/begin-react/.env.production.local
+30-React/begin-react.DS_Store
+30-React/begin-react.env.local
+30-React/begin-react.env.development.local
+30-React/begin-react.env.test.local
+30-React/begin-react.env.production.local
 
-react-tutorial/begin-react/npm-debug.log*
-react-tutorial/begin-react/yarn-debug.log*
-react-tutorial/begin-react/yarn-error.log*
+30-React/begin-react/npm-debug.log*
+30-React/begin-react/yarn-debug.log*
+30-React/begin-react/yarn-error.log*
