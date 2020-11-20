@@ -2,6 +2,10 @@ function Animal(type, name, sound) {
   this.type = type;
   this.name = name;
   this.sound = sound;
+
+  // this.say = function () {
+  //   console.log(this.sound);
+  // };
 }
 
 Animal.prototype.say = function () {
@@ -15,6 +19,7 @@ function Cat(name, sound) {
   Animal.call(this, "고양이", name, sound);
 }
 
+// class 개념 없이 상속을 구현
 Dog.prototype = Animal.prototype;
 Cat.prototype = Animal.prototype;
 

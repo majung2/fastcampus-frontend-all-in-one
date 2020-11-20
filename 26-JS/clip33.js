@@ -5,6 +5,7 @@ class Animal {
     this.sound = sound;
   }
   say() {
+    // 자동으로 prototype 이 생성
     console.log(this.sound);
   }
 }
@@ -21,6 +22,6 @@ class Cat extends Animal {
 const dog = new Dog("멍멍이", "멍멍");
 const cat = new Cat("야옹이", "야옹");
 const cat2 = new Cat("야오오오옹이", "야오오오오옹이");
-dog.say();
+dog.say(); // Dog.prototype = Animal.prototye; 않아도 사용가능!
 cat.say();
 cat2.say();
