@@ -1,5 +1,5 @@
 import React from "react";
-import Hello from "../../../FCFE/30-React/begin-react/src/Hello";
+import Hello from "./Hello";
 
 function App() {
   return (
